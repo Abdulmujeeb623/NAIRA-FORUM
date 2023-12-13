@@ -1,0 +1,15 @@
+/* public/css/styles.css */
+
+/* Custom CSS styles for images */
+.card-img-top {
+    max-height: 150px; /* Set a maximum height for the images */
+    object-fit: cover; /* Ensure images cover the entire container */
+    border-radius: 8px; /* Add rounded corners for a card-like appearance */
+    margin-bottom: 10px; /* Add some space below the images */
+}
+
+/* Additional styles for the card body */
+.card-body {
+    background-color: #f8f9fa; /* Set a light background color for the card body */
+    padding: 15px; /* Add padding to the card body */
+}
